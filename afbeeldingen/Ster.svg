@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+       "http://www.w3.org/TR/2001/REC-SVG-20050904/DTD/svg10.dtd">
+<!-- Created by amaya 11, see http://www.w3.org/Amaya/ -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="600" height="600">
+  <title>Draw</title>
+  <polygon points="24,177 176,64 176,64 0,64 148,178 88,-1 "
+           style=" stroke-opacity: 1; stroke-width: 1;stroke: none;fill:#ffd800"
+           transform="translate(134.869,118.985) scale(2.26696,1.98507) "/>
+</svg>
