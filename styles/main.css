@@ -5,14 +5,12 @@ body {
 }
 header{
     background-color:#ffc0cb ;
-    height = "30";
-    width = 100%;
+    height = 38px;
 }
 
 footer{
     background-color: lightseagreen;
-    height = "30";
-    width: 100%;
+    height : 35px;
     margin-bottom: 8px;
 }
 h1 {color: darkblue; 
