@@ -11,7 +11,7 @@ header{
 
 footer{
     background-color: lightseagreen;
-    height = "30"
+    height = "30";
     width: 100%;
     margin-bottom: 8px;
 }
@@ -29,7 +29,9 @@ table{ width: 60%; height: 50%;
 }
 
 
-td {text-align: center; font-weight: bold; width: 115px}
+td {text-align: center; 
+    font-weight: bold;
+    width: 115px;}
 
 #cel11 {background-color: yellow ;}
 #cel21 {background-color: #ff99cc;}
